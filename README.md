@@ -28,7 +28,7 @@ Comprehensive Survey and Beyond" [[arxiv](https://arxiv.org/pdf/2212.10772.pdf)]
 * **SID** (CVPR 2018) [[paper](https://arxiv.org/pdf/1805.01934.pdf)] [[TensorFlow](https://github.com/cchen156/Learning-to-See-in-the-Dark)]
   * Learning to See in the Dark
 
-* **DeepUPEv (CVPR 2019) [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Underexposed_Photo_Enhancement_Using_Deep_Illumination_Estimation_CVPR_2019_paper.pdf)] [[TensorFlow](https://github.com/dvlab-research/DeepUPE)]
+* **DeepUPE** (CVPR 2019) [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Underexposed_Photo_Enhancement_Using_Deep_Illumination_Estimation_CVPR_2019_paper.pdf)] [[TensorFlow](https://github.com/dvlab-research/DeepUPE)]
   * Underexposed Photo Enhancement using Deep Illumination Estimation
 
 * **EEMEFN** (AAAI 2019) [[paper](https://aaai.org/ojs/index.php/AAAI/article/view/7013/6867)] [[TensorFlow](https://github.com/MinfengZhu/EEMEFN)]
@@ -74,7 +74,7 @@ Low-Light Image Enhancement
 * **UTVNet** (ICCV 2021) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zheng_Adaptive_Unfolding_Total_Variation_Network_for_Low-Light_Image_Enhancement_ICCV_2021_paper.pdf)] [[PyTorch](https://github.com/CharlieZCJ/UTVNet)]
   * UTVNet: Adaptive Unfolding Total Variation Network for Low-Light Image Enhancement
 
-* **SDSDv (ICCV 2021) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Seeing_Dynamic_Scene_in_the_Dark_A_High-Quality_Video_Dataset_ICCV_2021_paper.pdf)] [[PyTorch](https://github.com/dvlab-research/SDSD)]
+* **SDSD** (ICCV 2021) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Seeing_Dynamic_Scene_in_the_Dark_A_High-Quality_Video_Dataset_ICCV_2021_paper.pdf)] [[PyTorch](https://github.com/dvlab-research/SDSD)]
   * Seeing Dynamic Scene in the Dark: A High-Quality Video Dataset with Mechatronic Alignment
 
 * **RetinexDIP** (TCSVT 2021) [[paper](https://ieeexplore.ieee.org/document/9405649)] [[PyTorch](https://github.com/zhaozunjin/RetinexDIP)]
@@ -83,7 +83,7 @@ Low-Light Image Enhancement
 * **SGZ** (WACV 2022) [[paper](https://openaccess.thecvf.com/content/WACV2022W/RWS/papers/Zheng_Semantic-Guided_Zero-Shot_Learning_for_Low-Light_ImageVideo_Enhancement_WACVW_2022_paper.pdf)] [[PyTorch](https://github.com/ShenZheng2000/Semantic-Guided-Low-Light-Image-Enhancement)]
   * Semantic-Guided Zero-Shot Learning for Low-Light Image/Video Enhancement
 
-* LLFlow (AAAI 2022) [[paper](https://arxiv.org/pdf/2109.05923.pdf)] [[PyTorch](https://github.com/wyf0912/LLFlow)]
+* **LLFlow** (AAAI 2022) [[paper](https://arxiv.org/pdf/2109.05923.pdf)] [[PyTorch](https://github.com/wyf0912/LLFlow)]
   * Low-Light Image Enhancement with Normalizing Flow
 
 * **SNR-Aware** (CVPR 2022) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_SNR-Aware_Low-Light_Image_Enhancement_CVPR_2022_paper.pdf)] [[PyTorch](https://github.com/dvlab-research/SNR-Aware-Low-Light-Enhance)]
@@ -175,13 +175,13 @@ Low-Light Image Enhancement
 # Surveys
 
 * IEEE [[paper](https://ieeexplore.ieee.org/document/9088214)]
- * An experiment-based review of low-light image enhancement methods
+  * An experiment-based review of low-light image enhancement methods
 
 * IJCV 2021 [[paper](https://flyywh.github.io/IJCV2021LowLight_VELOL/attached_files/ijcv21.pdf)]
- * Benchmarking low-light image enhancement and beyond
+  * Benchmarking low-light image enhancement and beyond
 
 * TPAMI 2021 [[paper](https://arxiv.org/pdf/2104.10729.pdf)]
- * Low-Light Image and Video Enhancement Using Deep Learning: A Survey
+  * Low-Light Image and Video Enhancement Using Deep Learning: A Survey
 
 
 # Related Repositories
