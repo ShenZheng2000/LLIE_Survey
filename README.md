@@ -8,6 +8,13 @@ Comprehensive Survey and Beyond" [[arxiv](https://arxiv.org/pdf/2212.10772.pdf)]
 
 This paper presents a comprehensive survey of low-light image and video enhancement. We begin with the challenging mixed over-/under-exposed images, which are under-performed by existing methods. To this end, we propose two variants of the SICE dataset named SICE\_Grad and SICE\_Mix. Next, we introduce Night Wenzhou, a large-scale, high-resolution video dataset, to address the issue of the lack of a low-light video dataset that discount the use of low-light image enhancement (LLIE) to videos. The Night Wenzhou dataset is challenging since it consists of fast-moving aerial scenes and streetscapes with varying illuminations and degradation.  We conduct extensive key technique analysis and experimental comparisons for representative LLIE approaches using these newly proposed datasets and the current benchmark datasets. Finally, we address unresolved issues and propose future research topics for the LLIE community.
 
+# Timeline
+
+<p float="left">
+<p align="middle">
+  <img src="Timeline.png" width="1000" />
+</p>
+
 
 # Models (in chronological order) 
 
