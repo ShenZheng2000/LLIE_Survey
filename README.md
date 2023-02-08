@@ -18,6 +18,14 @@ This paper presents a comprehensive survey of low-light image and video enhancem
 </p>
 
 
+# Taxonomy
+
+<p float="left">
+<p align="middle">
+  <img src="taxonomy.png" width="1000" />
+</p>
+
+
 # Models (in chronological order) 
 
 * **PIE** (TIP 2015) [[paper](https://ieeexplore.ieee.org/document/7229296)] [[Python](https://github.com/DavidQiuChao/PIE)]
