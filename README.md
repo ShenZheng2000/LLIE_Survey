@@ -25,6 +25,15 @@ This paper presents a comprehensive survey of low-light image and video enhancem
   <img src="taxonomy.png" width="1000" />
 </p>
 
+# Category
+
+# Taxonomy
+
+<div style="display:flex;justify-content:center;">
+  <img src="Traditional.png" width="500" style="margin-right:20px;">
+  <img src="Deep.png" width="500">
+</div>
+
 
 # Models (in chronological order) 
 
