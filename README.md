@@ -27,10 +27,10 @@ This paper presents a comprehensive survey of low-light image and video enhancem
 
 # Category
 
-<div style="display:flex;justify-content:center;">
-  <img src="Traditional.png" width="500" style="margin-right:20px;">
-  <img src="Deep.png" width="500">
-</div>
+<p align="center">
+  <img src="Traditional.png" alt="Traditional" width="400" hspace="20"/>
+  <img src="Deep.png" alt="Deep" width="400" /> 
+</p>
 
 
 # Models (in chronological order) 
