@@ -1,3 +1,5 @@
+# Example run: python -W ignore SPAQ.py --test_dir /root/autodl-tmp/Result/RetinexNet/ExDark --read_subfolder True
+
 import torch
 import torch.nn as nn
 import torchvision
