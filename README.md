@@ -4,9 +4,10 @@ Comprehensive Survey and Beyond" [[arxiv](https://arxiv.org/pdf/2212.10772.pdf)]
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
  Updates
-- 2023/4/16: The result images for all baseline models are [here](https://drive.google.com/file/d/1lSjZRJi4pOaI0auyB8UjPtTAGSb6UpkT/view?usp=share_link)
-- 2023/2/8: The arxiv has been updated. The current version contains 21 pages, 9 tables, and 25 figures!
+- 2023/4/16: The enhanced images and the metric scripts have been uploaded.
 - 2023/3/24: The Night Wenzhou Dataset has been uploaded.
+- 2023/2/8: The arxiv has been updated. The current version contains 21 pages, 9 tables, and 25 figures!
+
 
 # Abstract
 
@@ -165,6 +166,11 @@ Low-Light Image Enhancement
 * SICE_Grad & SICE_Mix [[images](https://drive.google.com/drive/folders/1OCwFtZPhvpGYBGPGrHsKxhvO5zSLYEJe?usp=sharing)]
 
 * Night Wenzhou [[video_DJI](https://drive.google.com/file/d/1g-8-sSAkRD3t8CGisD352i87KOPSLb_3/view?usp=sharing)] [[video_GoPro](https://drive.google.com/file/d/1T80OigrrL2jQu5XcNuTqL7eRiBHgilMv/view?usp=sharing)]
+
+
+# Enhanced Images
+
+* Enhanced images for all baselines are [here](https://drive.google.com/file/d/1lSjZRJi4pOaI0auyB8UjPtTAGSb6UpkT/view?usp=share_link)
 
 
 # Metrics
