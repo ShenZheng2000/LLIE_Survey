@@ -4,7 +4,7 @@ Comprehensive Survey and Beyond" [[arxiv](https://arxiv.org/pdf/2212.10772.pdf)]
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
  Updates
-- 2023/4/16: The results for all baseline models are [here](https://drive.google.com/file/d/1lSjZRJi4pOaI0auyB8UjPtTAGSb6UpkT/view?usp=share_link)
+- 2023/4/16: The result images for all baseline models are [here](https://drive.google.com/file/d/1lSjZRJi4pOaI0auyB8UjPtTAGSb6UpkT/view?usp=share_link)
 - 2023/2/8: The arxiv has been updated. The current version contains 21 pages, 9 tables, and 25 figures!
 - 2023/3/24: The Night Wenzhou Dataset has been uploaded.
 
