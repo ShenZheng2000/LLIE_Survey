@@ -1,4 +1,6 @@
 # NOTE: skimage.__version__ == '0.17.1'
+# Example run: python ref.py --test_dir1 /root/autodl-tmp/Result/RetinexNet/low --test_dir2 /root/autodl-tmp/Dataset/Clean_Images/low
+
 import os
 import numpy as np
 from glob import glob
