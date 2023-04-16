@@ -1,3 +1,5 @@
+# Example run: python -W ignore BRISQUE.py --test_dir /root/autodl-tmp/Result/RetinexNet/ExDark --read_subfolder True
+
 import os
 from glob import glob
 from PIL import Image
