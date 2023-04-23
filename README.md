@@ -30,10 +30,12 @@ This paper presents a comprehensive survey of low-light image and video enhancem
 
 # Category
 
-<p align="center">
-  <img src="Traditional.png" alt="Traditional" width="450" hspace="50"/>
-  <img src="Deep.png" alt="Deep" width="450" /> 
-</p>
+
+Traditional          |  Deep Learning
+:-------------------------:|:-------------------------:
+![](Traditional.png)  |  ![](Deep.png)
+
+
 
 
 # Models (in chronological order) 
