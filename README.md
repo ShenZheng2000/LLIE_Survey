@@ -31,7 +31,7 @@ This paper presents a comprehensive survey of low-light image and video enhancem
 # Category
 
 
-Traditional          |  Deep Learning
+Traditional Learning          |  Deep Learning
 :-------------------------:|:-------------------------:
 ![](Traditional.png)  |  ![](Deep.png)
 
