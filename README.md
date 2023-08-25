@@ -167,7 +167,7 @@ Low-Light Image Enhancement
 
 * SICE_Grad & SICE_Mix [[images](https://drive.google.com/file/d/1gii4AEyyPp_kagfa7TyugnNPvUhkX84x/view?usp=sharing)]
 
-* Night Wenzhou [[video_DJI](https://drive.google.com/file/d/1g-8-sSAkRD3t8CGisD352i87KOPSLb_3/view?usp=sharing)] [[video_GoPro](https://drive.google.com/file/d/1T80OigrrL2jQu5XcNuTqL7eRiBHgilMv/view?usp=sharing)]  (TODO: fix file compression error)
+* Night Wenzhou [[videos](https://drive.google.com/file/d/1kRsszLDx1KKx6XHeLFfogDJUO62GNLAc/view?usp=drive_link)] 
 
 
 # Enhanced Images
