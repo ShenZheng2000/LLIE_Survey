@@ -94,6 +94,7 @@ class Baseline(nn.Module):
 		return result
 
 class Demo(object):
+	# NOTE: download SPAQ weight from here: https://drive.google.com/file/d/1pXjXAIItViTFs7qUBY-b11WY50mzoVM2/view
 	def __init__(self, config, load_weights=True, checkpoint_dir='./weights/BL_release.pt' ):
 		self.config = config
 		self.load_weights = load_weights
