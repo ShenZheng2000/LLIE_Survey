@@ -4,9 +4,10 @@ Comprehensive Survey and Beyond" [[arxiv](https://arxiv.org/pdf/2212.10772.pdf)]
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
  Updates
+- 2024/1/1: We update the arXiv version with important revisions.  
 - 2023/4/16: The enhanced images and the metric scripts have been uploaded.
 - 2023/3/24: The Night Wenzhou Dataset has been uploaded.
-- 2023/2/8: The arxiv has been updated. The current version contains 21 pages, 9 tables, and 25 figures!
+- 2023/2/8: The arXiv has been updated. The current version contains 21 pages, 9 tables, and 25 figures!
 
 
 # Abstract
