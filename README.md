@@ -1,18 +1,27 @@
-This is a repository that contains resources accompanying our paper "Low-Light Image and Video Enhancement: A
-Comprehensive Survey and Beyond" [[arxiv](https://arxiv.org/pdf/2212.10772.pdf)]
+<h1 align="center">Low-Light Image and Video Enhancement: A Comprehensive Survey and Beyond</h1>
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<p align="center">
+    <a href="https://arxiv.org/pdf/2212.10772.pdf">ArXiv</a>
+</p>
 
- Updates
+
+# Title
+
+<b>Low-Light Image and Video Enhancement: A
+Comprehensive Survey and Beyond</b>
+<br>_[Shen Zheng](https://shenzheng2000.github.io/), Yiling Ma, [Jinqian Pan](https://scholar.google.com/citations?user=6jJqKrsAAAAJ&hl=en), [Changjie Lu](https://louey233.github.io/), [Gaurav Gupta](https://csmt.wku.edu.cn/en/node/1844)_<br>
+
+
+# Updates 
 - 2024/1/1: We update the arXiv version with important revisions.  
 - 2023/4/16: The enhanced images and the metric scripts have been uploaded.
 - 2023/3/24: The Night Wenzhou Dataset has been uploaded.
 - 2023/2/8: The arXiv has been updated. The current version contains 21 pages, 9 tables, and 25 figures!
 
-
-# Abstract
-
-This paper presents a comprehensive survey of low-light image and video enhancement. We begin with the challenging mixed over-/under-exposed images, which are under-performed by existing methods. To this end, we propose two variants of the SICE dataset named SICE\_Grad and SICE\_Mix. Next, we introduce Night Wenzhou, a large-scale, high-resolution video dataset, to address the lack of low-light video datasets that discourages the use of low-light image enhancement (LLIE) methods in videos. Our Night Wenzhou dataset is challenging since it consists of fast-moving aerial scenes and streetscapes with varying illuminations and degradation. We then construct a hierarchical taxonomy, conduct extensive key technique analysis, and performs experimental comparisons for representative LLIE approaches using our proposed datasets and the current benchmark datasets. Finally, we identify emerging applications, address unresolved challenges, and propose future research topics for the LLIE community.
+# Highlights
+*  Present a comprehensive survey of low-light image and videeo enhancement (LLIE).
+*  Propose SICE_Grad and SICE_Mix image datasets to represent complex mixed over-/under-exposed scenes. 
+*  Introduce Night Wenzhou video dataset that features fast-moving aerial scenes and streetscapes with varied illuminations.
 
 # Timeline
 
