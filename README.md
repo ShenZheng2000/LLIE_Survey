@@ -25,17 +25,15 @@ Comprehensive Survey and Beyond</b>
 
 # Timeline
 
-<p float="left">
-<p align="middle">
-  <img src="Figures/Timeline.png" width="1000" />
+<p align="center">
+  <img width="100%" src="Figures/Timeline.png">
 </p>
 
 
 # Taxonomy
 
-<p float="left">
-<p align="middle">
-  <img src="Figures/taxonomy.png" width="1000" />
+<p align="center">
+  <img width="100%" src="Figures/taxonomy.png">
 </p>
 
 # Category
@@ -45,7 +43,11 @@ Traditional Learning          |  Deep Learning
 :-------------------------:|:-------------------------:
 ![](Figures/Traditional.png)  |  ![](Figures/Deep.png)
 
+# Our Datasets
 
+SICE_Grad and SICE_Mix [[Download](https://drive.google.com/file/d/1gii4AEyyPp_kagfa7TyugnNPvUhkX84x/view?usp=sharing)]         |  Night Wenzhou [[Download](https://drive.google.com/file/d/1kRsszLDx1KKx6XHeLFfogDJUO62GNLAc/view?usp=drive_link)]
+:-------------------------:|:-------------------------:
+![](Figures/SICE_Grad.png)  |  ![](Figures/Night_Wenzhou.png)
 
 
 # Models (in chronological order) 
@@ -171,13 +173,6 @@ Low-Light Image Enhancement
 * ExDark [[link](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset)]
 
 * SICE [[link](https://github.com/csjcai/SICE)]
-
-
-# Our Datasets 
-
-* SICE_Grad & SICE_Mix [[images](https://drive.google.com/file/d/1gii4AEyyPp_kagfa7TyugnNPvUhkX84x/view?usp=sharing)]
-
-* Night Wenzhou [[videos](https://drive.google.com/file/d/1kRsszLDx1KKx6XHeLFfogDJUO62GNLAc/view?usp=drive_link)] 
 
 
 # Enhanced Images
