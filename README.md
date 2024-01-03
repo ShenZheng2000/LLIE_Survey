@@ -21,7 +21,7 @@ Comprehensive Survey and Beyond</b>
 # Highlights
 *  Present a comprehensive survey of low-light image and videeo enhancement (LLIE).
 *  Propose SICE_Grad and SICE_Mix image datasets to represent complex mixed over-/under-exposed scenes. 
-*  Introduce Night Wenzhou video dataset that features fast-moving aerial scenes and streetscapes with varied illuminations.
+*  Introduce Night Wenzhou video dataset that features fast-moving aerial scenes and streetscapes with varied illuminations and degradations.
 
 # Timeline
 
