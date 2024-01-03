@@ -27,7 +27,7 @@ Comprehensive Survey and Beyond</b>
 
 <p float="left">
 <p align="middle">
-  <img src="Timeline.png" width="1000" />
+  <img src="Figures/timeline.png" width="1000" />
 </p>
 
 
@@ -35,7 +35,7 @@ Comprehensive Survey and Beyond</b>
 
 <p float="left">
 <p align="middle">
-  <img src="taxonomy.png" width="1000" />
+  <img src="Figures/taxonomy.png" width="1000" />
 </p>
 
 # Category
@@ -43,7 +43,7 @@ Comprehensive Survey and Beyond</b>
 
 Traditional Learning          |  Deep Learning
 :-------------------------:|:-------------------------:
-![](Traditional.png)  |  ![](Deep.png)
+![](Figures/Traditional.png)  |  ![](Figures/Deep.png)
 
 
 
