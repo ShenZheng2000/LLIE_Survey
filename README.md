@@ -27,7 +27,7 @@ Comprehensive Survey and Beyond</b>
 
 <p float="left">
 <p align="middle">
-  <img src="Figures/timeline.png" width="1000" />
+  <img src="Figures/Timeline.png" width="1000" />
 </p>
 
 
