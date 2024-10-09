@@ -177,7 +177,7 @@ Low-Light Image Enhancement
 
 # Enhanced Images
 
-* Enhanced images for all baselines are [here](https://drive.google.com/file/d/1lSjZRJi4pOaI0auyB8UjPtTAGSb6UpkT/view?usp=share_link)
+* Enhanced images for all baselines are [here](https://drive.google.com/file/d/1rFpAwt9Ofh3S9RmQrN-zrUvMGIKtg9Zo/view?usp=sharing)
 
 
 # Metrics
